@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1047096251241",
+    "project_id": "ecommerce-43ed3",
+    "storage_bucket": "ecommerce-43ed3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047096251241:android:c3c6b6ddf391921b6323f8",
+        "android_client_info": {
+          "package_name": "zando_clone.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047096251241-6445lds6glkmstl4kohb7og92nkkekcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm1C03Bs2VnkSfka3R6pdIvdternbEp7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047096251241-6445lds6glkmstl4kohb7og92nkkekcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
